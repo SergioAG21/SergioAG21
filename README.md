@@ -1,6 +1,6 @@
-👋 Hi, I’m @SergioAG21
-👀 I’m interested in Web Development
-🌱 I’m currently learning PHP, JavaScript, MySQL...
+- 👋 Hi, I’m @SergioAG21
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning PHP, JavaScript, MySQL...
 
 <!---
 SergioAG21/SergioAG21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
