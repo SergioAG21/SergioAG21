@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SergioAG21
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in full stack Web Development
 - 🌱 I’m currently learning Nextjs, React, Node.js, PHP, and DataBase
 
 <!---
