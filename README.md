@@ -17,7 +17,7 @@ I'm a **Junior FullStack Developer**, focused on building high-performing, acces
 | **Frontend**               | Next.js, React, Angular                                                                                                                                                   |
 | **Backend**           | Express, PHP, SpringBoot                                                                                                                              |
 | **Infrastructure & Tools** | ESLint, Postman, Warp, Vercel                                                                                                                                         |
-| **Styling**                | SCSS, Tailwind                                                                                                                                                          |
+| **Styling**                | SCSS, Tailwind, Responsive                                                                                                                                                          |
 
 ---
 
